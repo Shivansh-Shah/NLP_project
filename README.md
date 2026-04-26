@@ -35,12 +35,12 @@ artifacts/                             # legacy tokenizer/model artifact paths u
 
 The following files are available in the Google Drive link above and are not included in this GitHub repository:
 
-- finetuning/finetunningmyown/artifacts/finetunningmyown/best.pt
-- pretrain/mlm_final/step_100000/checkpoint.pt
-- translation/scratch_transformer/artifacts/english_to_kannada_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt
-- translation/scratch_transformer/artifacts/kannada_to_english_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt
-- translation/kannada_to_english/kannada_to_english_v2/checkpoints/best.pt
-- translation/english_to_kannada/artifacts/english_to_kannada/checkpoints/10m_long_v2/best.pt
+- finetuning/finetunningmyown/artifacts/finetunningmyown/best.pt (https://drive.google.com/file/d/1kGKYCUpZJbVLJPWi0NhfkyFFWu4IxJej/view?usp=share_link)
+- pretrain/mlm_final/step_100000/checkpoint.pt (https://drive.google.com/file/d/1zxw1l4whPy8Ooz9n2RKQZHhFd2ANGz09/view?usp=sharing)
+- translation/scratch_transformer/artifacts/english_to_kannada_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt (https://drive.google.com/file/d/1D_m9d-rNDRmxaXrpwDwVRvwnAiFppRud/view?usp=sharing)
+- translation/scratch_transformer/artifacts/kannada_to_english_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt (https://drive.google.com/file/d/1WC0t-6zgyHV6R-HqyXei-64FTAt4lNZR/view?usp=share_link)
+- translation/kannada_to_english/kannada_to_english_v2/checkpoints/best.pt (https://drive.google.com/file/d/1WoOThm5B7pAR8DxB1MFpjY_KUbZm4r94/view?usp=sharing)
+- translation/english_to_kannada/artifacts/english_to_kannada/checkpoints/10m_long_v2/best.pt (https://drive.google.com/file/d/1w9Vj9KJShxDWPW9ON6fzcgTVF4Hww4AM/view?usp=share_link)
 
 After downloading, place them at the same relative paths in this repository.
 
