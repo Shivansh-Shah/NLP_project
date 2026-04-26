@@ -1,0 +1,14 @@
+# models
+*.pt
+*.pth
+*.ckpt
+
+# large folders
+translation/
+finetuning/
+pretrain/
+
+# cache
+__pycache__/
+*.pyc
+
