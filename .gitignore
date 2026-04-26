@@ -1,14 +1,39 @@
-# models
+# # models
+# *.pt
+# *.pth
+# *.ckpt
+
+# # large folders
+# # translation/
+# # finetuning/
+# # pretrain/
+
+# # cache
+# __pycache__/
+# *.pyc
+
+# finetuning/finetunningmyown/artifacts/finetunningmyown/best.pt
+
+# /Users/shivanshshah/Downloads/NLP_project_essential/pretrain/mlm_final/step_100000/checkpoint.pt
+
+# /Users/shivanshshah/Downloads/NLP_project_essential/translation/scratch_transformer/artifacts/english_to_kannada_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt
+
+# /Users/shivanshshah/Downloads/NLP_project_essential/translation/scratch_transformer/artifacts/kannada_to_english_scratch/checkpoints/full_train_20260422_gpuonly_seq/best.pt
+
+# /Users/shivanshshah/Downloads/NLP_project_essential/translation/kannada_to_english/kannada_to_english_v2/checkpoints/best.pt
+
+# /Users/shivanshshah/Downloads/NLP_project_essential/translation/english_to_kannada/artifacts/english_to_kannada/checkpoints/10m_long_v2/best.pt
+
+
+
+#  Model files (this alone solves everything)
 *.pt
 *.pth
 *.ckpt
-
-# large folders
-translation/
-finetuning/
-pretrain/
 
 # cache
 __pycache__/
 *.pyc
 
+# OS
+.DS_Store
